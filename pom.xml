@@ -12,7 +12,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>shortener</name>
     <description>URL Shortener with Spring Boot and SQLite</description>
-
     <properties>
         <java.version>11</java.version>
     </properties>
